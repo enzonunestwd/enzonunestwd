@@ -58,9 +58,11 @@ Tenho experiência prática com o banco de dados **MySQL e SQLite**, atuando dir
 
 ## 🎓 Formação e Certificações
 
-* **Graduação em Análise e Desenvolvimento de Sistemas (CST)** - Centro Universitário Adventista de São Paulo (UNASP) | Fev 2025 – Jun 2027 (Cursando)
-* **Ensino Técnico em Desenvolvimento de Sistemas** - ETEC (Escola Técnica Estadual de São Paulo) | Fev 2022 – Dez 2024
-* **Preparação Oficial:** Microsoft Certified: Azure Developer Associate (AZ-204) e AWS Cloud Practitioner.
+* **Graduação em Análise e Desenvolvimento de Sistemas (CST)** — Centro Universitário Adventista de São Paulo (UNASP)
+  * *Período:* Fev 2025 – Jun 2027 (Cursando)
+* **Ensino Técnico em Desenvolvimento de Sistemas** — ETEC (Escola Técnica Estadual de São Paulo)
+  * *Período:* Fev 2022 – Dez 2024
+  * *Destaque:* Concluído de forma simultânea ao Ensino Médio, construindo uma base sólida em lógica de programação, análise de requisitos, bancos de dados (SQL) e fundamentos de desenvolvimento de software.
 
 ---
 
