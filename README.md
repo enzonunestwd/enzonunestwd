@@ -46,7 +46,7 @@ Tenho experiência prática com o banco de dados **MySQL e SQLite**, atuando dir
 
 **FinPulse**
 
-* **Descrição:** Aplicação fullstack de controle financeiro pessoal[cite: 1]. Permite cadastrar contas, registrar receitas/despesas com atualização automática de saldo, gerenciar metas com progresso e visualizar resumos mensais em um dashboard.
+* **Descrição:** Aplicação fullstack de controle financeiro pessoal. Permite cadastrar contas, registrar receitas/despesas com atualização automática de saldo, gerenciar metas com progresso e visualizar resumos mensais em um dashboard.
 * **Tecnologias:** Java 17, Spring Boot 3, Spring Security, Spring Data JPA, JWT, PostgreSQL, React 18, Vite, Tailwind CSS, Recharts, Axios, Railway, Vercel.
 
 **Java PDV Elgin Integration**
