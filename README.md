@@ -20,7 +20,7 @@ Tenho experiência prática com o banco de dados **MySQL e SQLite**, atuando dir
   <br/>
   
   <!-- BANCO DE DADOS -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
   <p><b>Banco de Dados</b></p>
   <br/>
   
@@ -42,19 +42,18 @@ Tenho experiência prática com o banco de dados **MySQL e SQLite**, atuando dir
 
 ## 🚀 Projetos de Destaque
 
-### 💰 FinPulse — Controle Financeiro Pessoal (Fullstack)
-
-* **Descrição:** Aplicação fullstack de controle financeiro pessoal[cite: 1]. Permite cadastrar contas, registrar receitas/despesas com atualização automática de saldo, gerenciar metas com progresso e visualizar resumos mensais em um dashboard.
+**FinPulse — Controle Financeiro Pessoal (Fullstack)**
+* **Descrição:** Aplicação fullstack de controle financeiro pessoal[cite: 1]. Permite cadastrar contas, registrar receitas/despesas com atualização automática de saldo, gerenciar metas com progresso e visualizar resumos mensais em um dashboard[cite: 1].
 * **Tecnologias:** Java 17, Spring Boot 3, Spring Security, Spring Data JPA, JWT, PostgreSQL, React 18, Vite, Tailwind CSS, Recharts, Axios, Railway, Vercel[cite: 1].
 
-### 🏪 Java PDV Elgin Integration
-*   **Descrição:** Aplicação Java desenvolvida para integração de Pontos de Venda (PDV) com impressoras térmicas Elgin, utilizando JNA para comunicação direta de baixo nível com os periféricos.
-*   **Tecnologias:** Java, JNA, Integração de Hardware.
-
+**Java PDV Elgin Integration**
+* **Descrição:** Aplicação Java desenvolvida para integração de Pontos de Venda (PDV) com impressoras térmicas Elgin, utilizando JNA para comunicação direta de baixo nível com os periféricos.
+* **Tecnologias:** Java, JNA, Integração de Hardware, Protocolos de Periféricos.
 
 ---
 
-### 🏫 Formação Acadêmica
+## 🎓 Formação Acadêmica
+
 * **Graduação em Análise e Desenvolvimento de Sistemas (CST)** — Centro Universitário Adventista de São Paulo (UNASP)
   * *Período:* Fev 2025 – Jun 2027 (Cursando)
 * **Ensino Técnico em Desenvolvimento de Sistemas** — ETEC (Escola Técnica Estadual de São Paulo)
@@ -64,6 +63,6 @@ Tenho experiência prática com o banco de dados **MySQL e SQLite**, atuando dir
 ---
 
 ## 📬 Contato
-*   **LinkedIn:** [linkedin.com/in/enzonunestdf/](https://www.linkedin.com/in/enzonunestdf/)
-*   **Email:** enzonunestwd@gmail.com
--->
+
+* **LinkedIn:** [linkedin.com/in/enzonunestdf/](https://www.linkedin.com/in/enzonunestdf/)
+* **Email:** enzonunestwd@gmail.com
